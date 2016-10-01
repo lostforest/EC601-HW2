@@ -10,5 +10,6 @@ https://dmv7vwz3knm31.cloudfront.net
 #Image for the website
 ![Alt Text](Image/logout.png)
 ![Alt Text](Image/loggingin.png)
+![Alt Text](Image/loggedin.png)
 
 #Image for Trello
