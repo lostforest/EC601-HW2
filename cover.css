@@ -27,7 +27,6 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
 }
 body {
   color: #fff;
@@ -48,14 +47,22 @@ body {
   display: table-cell;
   vertical-align: top;
 }
+
+.inner-cover {
+	width: 100%;
+}
+
 .cover-container {
-  margin-right: auto;
-  margin-left: auto;
+  height: 100%;
+  height: auto;
+  margin: 100px auto;
 }
 
 /* Padding for spacing */
 .inner {
-  padding: 30px;
+  width: 50%;
+  float: left;
+  padding: 30px 0 20px 0;
 }
 
 
