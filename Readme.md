@@ -3,6 +3,7 @@
 #Description:
 This is a website based on Windows containing links to my GitHub and LinkedIn, that can display my resume when users log in with Facebook account and hide the resume when log out.
 Layout design with bootstrap.
+**Updated a new version with better use of bootstrap and javascript**
 
 #Link to the website
 https://dmv7vwz3knm31.cloudfront.net
